@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Avinassh-freeman
+- 👀 I’m interested in opensource projects
+- 🌱 I’m currently learning python
